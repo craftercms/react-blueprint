@@ -15,7 +15,7 @@ plugin:
   version:
     major: 1
     minor: 0
-    patch: 18
+    patch: 19
   description: |
     Empty React blueprint to help developers get started with a React application
   website:
@@ -45,6 +45,8 @@ plugin:
       minor: 5
     - major: 4
       minor: 6
+    - major: 4
+      minor: 7
   crafterCmsEditions:
     - community
     - enterprise
